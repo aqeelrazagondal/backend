@@ -1,0 +1,30 @@
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"17:51:23"}
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"17:52:35"}
+{"level":"info","message":"::1 - - [18/Jul/2018:12:53:18 +0000] \"POST /api/webinar/register HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"17:53:18"}
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"17:54:37"}
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"17:55:53"}
+{"level":"info","message":"Webinar Register..!!","timestamp":"17:55:53"}
+{"level":"info","message":"::1 - - [18/Jul/2018:12:55:53 +0000] \"POST /api/webinar/register HTTP/1.1\" 200 511 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"17:55:53"}
+{"level":"error","message":"400 - Unexpected token \n in JSON at position 26 - /api/webinar/register - POST - ::1","timestamp":"17:56:52"}
+{"level":"error","message":"400 - Unexpected token \n in JSON at position 26 - /api/webinar/register - POST - ::1","timestamp":"17:57:19"}
+{"level":"error","message":"400 - Unexpected token \n in JSON at position 26 - /api/webinar/register - POST - ::1","timestamp":"17:59:36"}
+{"level":"error","message":"400 - Unexpected token \n in JSON at position 26 - /api/webinar/register - POST - ::1","timestamp":"18:02:24"}
+{"level":"error","message":"400 - Unexpected token \n in JSON at position 26 - /api/webinar/register - POST - ::1","timestamp":"18:04:33"}
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"18:06:37"}
+{"level":"info","message":"Webinar Register..!!","timestamp":"18:06:37"}
+{"level":"info","message":"::1 - - [18/Jul/2018:13:06:37 +0000] \"POST /api/webinar/register HTTP/1.1\" 200 530 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"18:06:37"}
+{"level":"info","message":"::1 - - [18/Jul/2018:13:10:31 +0000] \"OPTIONS /api/webinar/register HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"18:10:31"}
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"18:10:31"}
+{"level":"info","message":"Webinar Register..!!","timestamp":"18:10:31"}
+{"level":"info","message":"::1 - - [18/Jul/2018:13:10:31 +0000] \"POST /api/webinar/register HTTP/1.1\" 200 306 \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"18:10:31"}
+{"level":"info","message":"::1 - - [18/Jul/2018:13:11:53 +0000] \"OPTIONS /api/webinar/register HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"18:11:53"}
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"18:11:53"}
+{"level":"info","message":"Webinar Register..!!","timestamp":"18:11:53"}
+{"level":"info","message":"::1 - - [18/Jul/2018:13:11:53 +0000] \"POST /api/webinar/register HTTP/1.1\" 200 306 \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"18:11:53"}
+{"level":"info","message":"::1 - - [18/Jul/2018:16:59:59 +0000] \"OPTIONS /api/webinar/register HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"21:59:59"}
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"21:59:59"}
+{"level":"error","message":"Some Error while updating userMongoError: server instance pool was destroyed","timestamp":"21:59:59"}
+{"level":"info","message":"::1 - - [18/Jul/2018:16:59:59 +0000] \"POST /api/webinar/register HTTP/1.1\" 200 81 \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"21:59:59"}
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"22:01:50"}
+{"level":"info","message":"Webinar Register..!!","timestamp":"22:01:50"}
+{"level":"info","message":"::1 - - [18/Jul/2018:17:01:51 +0000] \"POST /api/webinar/register HTTP/1.1\" 200 530 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"22:01:51"}

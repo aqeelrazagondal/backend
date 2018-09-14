@@ -1,0 +1,12 @@
+{"level":"info","message":"::1 - - [12/Sep/2018:08:47:11 +0000] \"POST /api/users/register HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.3.0\"\n","timestamp":"13:47:11"}
+{"level":"info","message":"::1 - - [12/Sep/2018:08:47:40 +0000] \"POST /api/users/register HTTP/1.1\" 200 320 \"-\" \"PostmanRuntime/7.3.0\"\n","timestamp":"13:47:40"}
+{"level":"info","message":"::1 - - [12/Sep/2018:08:50:40 +0000] \"POST /api/users/auth HTTP/1.1\" 404 154 \"-\" \"PostmanRuntime/7.3.0\"\n","timestamp":"13:50:40"}
+{"level":"info","message":"::1 - - [12/Sep/2018:08:51:28 +0000] \"POST /api/auth HTTP/1.1\" 400 22 \"-\" \"PostmanRuntime/7.3.0\"\n","timestamp":"13:51:28"}
+{"level":"info","message":"::1 - - [12/Sep/2018:08:51:58 +0000] \"POST /api/auth HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.3.0\"\n","timestamp":"13:51:58"}
+{"level":"info","message":"::1 - - [12/Sep/2018:08:52:32 +0000] \"POST /api/auth HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.3.0\"\n","timestamp":"13:52:32"}
+{"level":"info","message":"::1 - - [12/Sep/2018:08:53:24 +0000] \"POST /api/auth HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.3.0\"\n","timestamp":"13:53:24"}
+{"level":"info","message":"::1 - - [12/Sep/2018:08:56:16 +0000] \"POST /api/auth HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.3.0\"\n","timestamp":"13:56:16"}
+{"level":"info","message":"::1 - - [12/Sep/2018:08:58:39 +0000] \"POST /api/auth HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.3.0\"\n","timestamp":"13:58:39"}
+{"level":"info","message":"::1 - - [12/Sep/2018:08:59:31 +0000] \"POST /api/auth HTTP/1.1\" 200 315 \"-\" \"PostmanRuntime/7.3.0\"\n","timestamp":"13:59:31"}
+{"level":"info","message":"::1 - - [12/Sep/2018:09:00:37 +0000] \"POST /api/users/register HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.3.0\"\n","timestamp":"14:00:37"}
+{"level":"info","message":"::1 - - [12/Sep/2018:09:01:21 +0000] \"POST /api/users/register HTTP/1.1\" 200 322 \"-\" \"PostmanRuntime/7.3.0\"\n","timestamp":"14:01:21"}

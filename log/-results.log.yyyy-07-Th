@@ -1,0 +1,530 @@
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"11:45:29"}
+{"level":"error","message":"Some Error while updating userMongoError: E11000 duplicate key error index: webinar.webinars.$phone_1 dup key: { : null }","timestamp":"11:45:29"}
+{"level":"info","message":"::1 - - [12/Jul/2018:06:45:29 +0000] \"POST /api/webinar/register HTTP/1.1\" 200 81 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"11:45:29"}
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"11:47:29"}
+{"level":"info","message":"Webinar Register..!!","timestamp":"11:47:29"}
+{"level":"info","message":"::1 - - [12/Jul/2018:06:47:29 +0000] \"POST /api/webinar/register HTTP/1.1\" 200 587 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"11:47:29"}
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"11:48:07"}
+{"level":"error","message":"Some Error while updating userMongoError: E11000 duplicate key error index: webinar.webinars.$phone_1 dup key: { : null }","timestamp":"11:48:07"}
+{"level":"info","message":"::1 - - [12/Jul/2018:06:48:07 +0000] \"POST /api/webinar/register HTTP/1.1\" 200 81 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"11:48:07"}
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"11:49:00"}
+{"level":"info","message":"Webinar Register..!!","timestamp":"11:49:00"}
+{"level":"info","message":"::1 - - [12/Jul/2018:06:49:00 +0000] \"POST /api/webinar/register HTTP/1.1\" 200 608 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"11:49:00"}
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"11:49:07"}
+{"level":"info","message":"Webinar Register..!!","timestamp":"11:49:07"}
+{"level":"info","message":"::1 - - [12/Jul/2018:06:49:07 +0000] \"POST /api/webinar/register HTTP/1.1\" 200 608 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"11:49:07"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"11:57:48"}
+{"level":"info","message":"2Webinars Found","timestamp":"11:57:49"}
+{"level":"info","message":"::1 - - [12/Jul/2018:06:57:49 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 200 1157 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"11:57:49"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"11:58:05"}
+{"level":"info","message":"2Webinars Found","timestamp":"11:58:09"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [12/Jul/2018:06:58:09 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 200 1157 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"11:58:09"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"12:01:26"}
+{"level":"info","message":"1Webinars Found","timestamp":"12:01:27"}
+{"level":"info","message":"::1 - - [12/Jul/2018:07:01:27 +0000] \"GET /api/webinar/getById/5b46f9dc3ac50b3438d79cf6 HTTP/1.1\" 200 606 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"12:01:27"}
+{"level":"info","message":"::1 - - [12/Jul/2018:07:11:02 +0000] \"DELETE /api/webinar/getById/5b46f9dc3ac50b3438d79cf6 HTTP/1.1\" 200 71 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"12:11:02"}
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"12:12:40"}
+{"level":"info","message":"Webinar Register..!!","timestamp":"12:12:40"}
+{"level":"info","message":"::1 - - [12/Jul/2018:07:12:40 +0000] \"POST /api/webinar/register HTTP/1.1\" 200 586 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"12:12:40"}
+{"level":"info","message":"::1 - - [12/Jul/2018:09:39:04 +0000] \"POST /api/webinar/uploadImage HTTP/1.1\" 404 163 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"14:39:04"}
+{"level":"info","message":"::1 - - [12/Jul/2018:09:39:53 +0000] \"POST /api/users/uploadImage HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"14:39:53"}
+{"level":"info","message":"::1 - - [12/Jul/2018:09:40:21 +0000] \"POST /api/users/uploadImage HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"14:40:21"}
+{"level":"info","message":"::1 - - [12/Jul/2018:09:42:36 +0000] \"POST /api/users/uploadImage HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"14:42:36"}
+{"level":"info","message":"::1 - - [12/Jul/2018:09:43:24 +0000] \"POST /api/users/uploadImage HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"14:43:24"}
+{"level":"info","message":"::1 - - [12/Jul/2018:09:45:00 +0000] \"POST /api/users/uploadImage HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"14:45:00"}
+{"level":"info","message":"::1 - - [12/Jul/2018:09:47:00 +0000] \"POST /api/users/uploadImage HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"14:47:00"}
+{"level":"info","message":"::1 - - [12/Jul/2018:09:50:51 +0000] \"POST /api/users/uploadImage HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"14:50:51"}
+{"level":"info","message":"::1 - - [12/Jul/2018:10:01:22 +0000] \"POST /api/users/uploadImage HTTP/1.1\" 404 161 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"15:01:22"}
+{"level":"info","message":"::1 - - [12/Jul/2018:10:01:46 +0000] \"POST /api/users HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"15:01:46"}
+{"level":"info","message":"::1 - - [12/Jul/2018:10:08:38 +0000] \"POST /api/users/profileImage HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"15:08:38"}
+{"level":"info","message":"::1 - - [12/Jul/2018:10:11:30 +0000] \"POST /api/users/profileImage HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"15:11:30"}
+{"level":"info","message":"::1 - - [12/Jul/2018:10:17:38 +0000] \"POST /api/users/profileImage HTTP/1.1\" 500 245 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"15:17:38"}
+{"level":"info","message":"undefinedUser Found","timestamp":"15:34:36"}
+{"level":"info","message":"::1 - - [12/Jul/2018:10:34:36 +0000] \"POST /api/users/profileImage HTTP/1.1\" 200 468 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"15:34:36"}
+{"level":"info","message":"undefinedUser Found","timestamp":"15:39:33"}
+{"level":"info","message":"::1 - - [12/Jul/2018:10:39:33 +0000] \"POST /api/users/profileImage HTTP/1.1\" 200 468 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"15:39:33"}
+{"level":"info","message":"undefinedUser Found","timestamp":"15:51:05"}
+{"level":"info","message":"::1 - - [12/Jul/2018:10:51:05 +0000] \"POST /api/users/profileImage HTTP/1.1\" 200 382 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"15:51:05"}
+{"level":"info","message":"undefinedUser Found","timestamp":"15:52:17"}
+{"level":"info","message":"::1 - - [12/Jul/2018:10:52:17 +0000] \"POST /api/users/profileImage HTTP/1.1\" 200 382 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"15:52:17"}
+{"level":"info","message":"::1 - - [12/Jul/2018:10:53:40 +0000] \"POST /api/users/register HTTP/1.1\" 200 317 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"15:53:40"}
+{"level":"info","message":"::1 - - [12/Jul/2018:10:57:32 +0000] \"POST /api/users/register HTTP/1.1\" 200 292 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"15:57:32"}
+{"level":"info","message":"::1 - - [12/Jul/2018:10:58:07 +0000] \"POST /api/users/profileImage HTTP/1.1\" 200 280 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"15:58:07"}
+{"level":"info","message":"undefinedUser Found","timestamp":"16:00:06"}
+{"level":"info","message":"::1 - - [12/Jul/2018:11:00:06 +0000] \"POST /api/users/profileImage HTTP/1.1\" 200 366 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"16:00:06"}
+{"level":"info","message":"undefinedUser Found","timestamp":"16:02:44"}
+{"level":"info","message":"::1 - - [12/Jul/2018:11:02:44 +0000] \"POST /api/users/profileImage HTTP/1.1\" 200 366 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"16:02:44"}
+{"level":"info","message":"::1 - - [12/Jul/2018:11:02:57 +0000] \"POST /api/users/profileImage HTTP/1.1\" 400 70 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"16:02:57"}
+{"level":"info","message":"undefinedUser Found","timestamp":"16:05:01"}
+{"level":"info","message":"::1 - - [12/Jul/2018:11:05:01 +0000] \"POST /api/users/profileImage HTTP/1.1\" 200 365 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"16:05:01"}
+{"level":"info","message":"undefinedUser Found","timestamp":"16:05:43"}
+{"level":"info","message":"::1 - - [12/Jul/2018:11:05:43 +0000] \"POST /api/users/profileImage HTTP/1.1\" 200 369 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"16:05:43"}
+{"level":"info","message":"::1 - - [12/Jul/2018:11:31:35 +0000] \"POST /api/users/settings HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"16:31:35"}
+{"level":"info","message":"::1 - - [12/Jul/2018:11:33:09 +0000] \"POST /api/users/settings HTTP/1.1\" 400 24 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"16:33:09"}
+{"level":"info","message":"::1 - - [12/Jul/2018:11:33:43 +0000] \"POST /api/users/settings HTTP/1.1\" 200 322 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"16:33:43"}
+{"level":"info","message":"::1 - - [12/Jul/2018:11:37:53 +0000] \"POST /api/users/register HTTP/1.1\" 200 293 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"16:37:53"}
+{"level":"info","message":"::1 - - [12/Jul/2018:11:38:13 +0000] \"POST /api/users/settings HTTP/1.1\" 200 286 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"16:38:13"}
+{"level":"info","message":"::1 - - [12/Jul/2018:11:51:00 +0000] \"POST /api/users/profile HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"16:51:00"}
+{"level":"info","message":"::1 - - [12/Jul/2018:11:51:21 +0000] \"POST /api/users/profile HTTP/1.1\" 200 388 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"16:51:21"}
+{"level":"info","message":"::1 - - [12/Jul/2018:12:10:34 +0000] \"POST /api/users/register HTTP/1.1\" 200 293 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"17:10:34"}
+{"level":"info","message":"::1 - - [12/Jul/2018:12:10:49 +0000] \"POST /api/auth HTTP/1.1\" 200 288 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"17:10:49"}
+{"level":"info","message":"GET /users/me called","timestamp":"17:11:28"}
+{"level":"info","message":"::1 - - [12/Jul/2018:12:11:28 +0000] \"GET /api/users/me HTTP/1.1\" 500 61 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"17:11:28"}
+{"level":"info","message":"GET /users/me called","timestamp":"17:13:25"}
+{"level":"info","message":"::1 - - [12/Jul/2018:12:13:25 +0000] \"GET /api/users/me/5b47453ad936ae3d901f9feb HTTP/1.1\" 200 279 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"17:13:25"}
+{"level":"info","message":"::1 - - [12/Jul/2018:12:15:18 +0000] \"POST /api/auth HTTP/1.1\" 400 62 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"17:15:18"}
+{"level":"info","message":"::1 - - [12/Jul/2018:12:15:53 +0000] \"POST /api/auth HTTP/1.1\" 200 288 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"17:15:53"}
+{"level":"info","message":"::1 - - [12/Jul/2018:12:16:46 +0000] \"POST /api/users/profileImage HTTP/1.1\" 400 14 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"17:16:46"}
+{"level":"info","message":"::1 - - [12/Jul/2018:12:17:02 +0000] \"POST /api/auth HTTP/1.1\" 200 288 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"17:17:02"}
+{"level":"info","message":"undefinedUser Found","timestamp":"17:17:30"}
+{"level":"info","message":"::1 - - [12/Jul/2018:12:17:30 +0000] \"POST /api/users/profileImage HTTP/1.1\" 200 370 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"17:17:30"}
+{"level":"info","message":"::1 - - [12/Jul/2018:12:19:21 +0000] \"POST /api/users/settings HTTP/1.1\" 200 375 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"17:19:21"}
+{"level":"info","message":"::1 - - [12/Jul/2018:12:20:18 +0000] \"POST /api/users/profile HTTP/1.1\" 200 477 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"17:20:18"}
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"09:33:39"}
+{"level":"info","message":"::1 - - [19/Jul/2018:04:33:39 +0000] \"POST /api/webinar/register HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"09:33:39"}
+{"level":"info","message":"POST UTC method...!!","timestamp":"09:33:58"}
+{"level":"info","message":"::1 - - [19/Jul/2018:04:35:58 +0000] \"POST /api/webinar/UTC HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"09:35:58"}
+{"level":"info","message":"POST UTC method...!!","timestamp":"09:37:23"}
+{"level":"info","message":"::1 - - [19/Jul/2018:04:39:23 +0000] \"POST /api/webinar/UTC HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"09:39:23"}
+{"level":"info","message":"POST UTC method...!!","timestamp":"09:40:17"}
+{"level":"info","message":"POST UTC method...!!","timestamp":"10:00:47"}
+{"level":"info","message":"POST UTC method...!!","timestamp":"10:02:31"}
+{"level":"info","message":"::1 - - [19/Jul/2018:05:04:31 +0000] \"POST /api/webinar/UTC HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"10:04:31"}
+{"level":"info","message":"POST UTC method...!!","timestamp":"10:09:04"}
+{"level":"info","message":"POST UTC method...!!","timestamp":"10:10:11"}
+{"level":"info","message":"POST UTC method...!!","timestamp":"10:10:48"}
+{"level":"info","message":"::1 - - [19/Jul/2018:05:11:11 +0000] \"POST /api/webinar/utc HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"10:11:11"}
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"10:13:04"}
+{"level":"info","message":"Webinar Register..!!","timestamp":"10:13:04"}
+{"level":"info","message":"::1 - - [19/Jul/2018:05:13:04 +0000] \"POST /api/webinar/register HTTP/1.1\" 200 584 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"10:13:04"}
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"10:13:14"}
+{"level":"info","message":"Webinar Register..!!","timestamp":"10:13:14"}
+{"level":"info","message":"::1 - - [19/Jul/2018:05:13:14 +0000] \"POST /api/webinar/register HTTP/1.1\" 200 584 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"10:13:14"}
+{"level":"info","message":"::1 - - [19/Jul/2018:05:42:40 +0000] \"OPTIONS /api/webinar/register HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"10:42:40"}
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"10:42:40"}
+{"level":"error","message":"Some Error while updating userValidationError: web_date: Cast to Date failed for value \"undefinedT23:00:00.000Z\" at path \"web_date\"","timestamp":"10:42:40"}
+{"level":"info","message":"::1 - - [19/Jul/2018:05:42:40 +0000] \"POST /api/webinar/register HTTP/1.1\" 200 81 \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"10:42:40"}
+{"level":"info","message":"::1 - - [19/Jul/2018:05:45:42 +0000] \"OPTIONS /api/webinar/register HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"10:45:42"}
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"10:45:42"}
+{"level":"error","message":"Some Error while updating userValidationError: web_date: Cast to Date failed for value \"\"2018-07-19T23:00:00.000Z\"\" at path \"web_date\"","timestamp":"10:45:42"}
+{"level":"info","message":"::1 - - [19/Jul/2018:05:45:42 +0000] \"POST /api/webinar/register HTTP/1.1\" 200 81 \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"10:45:42"}
+{"level":"info","message":"::1 - - [19/Jul/2018:05:51:51 +0000] \"OPTIONS /api/webinar/register HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"10:51:51"}
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"10:51:51"}
+{"level":"error","message":"Some Error while updating userValidationError: web_date: Cast to Date failed for value \"\"2018-07-19T23:00:00.000Z\"\" at path \"web_date\"","timestamp":"10:51:51"}
+{"level":"info","message":"::1 - - [19/Jul/2018:05:51:51 +0000] \"POST /api/webinar/register HTTP/1.1\" 200 81 \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"10:51:51"}
+{"level":"info","message":"::1 - - [19/Jul/2018:05:56:03 +0000] \"OPTIONS /api/webinar/register HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"10:56:03"}
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"10:56:03"}
+{"level":"error","message":"Some Error while updating userValidationError: web_start_time: Cast to Date failed for value \"9:00\" at path \"web_start_time\"","timestamp":"10:56:03"}
+{"level":"info","message":"::1 - - [19/Jul/2018:05:56:03 +0000] \"POST /api/webinar/register HTTP/1.1\" 200 81 \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"10:56:03"}
+{"level":"info","message":"::1 - - [19/Jul/2018:06:13:39 +0000] \"OPTIONS /api/webinar/register HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"11:13:39"}
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"11:13:39"}
+{"level":"info","message":"::1 - - [19/Jul/2018:06:13:56 +0000] \"POST /api/webinar/register HTTP/1.1\" - - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"11:13:56"}
+{"level":"info","message":"::1 - - [19/Jul/2018:07:49:42 +0000] \"OPTIONS /api/webinar/register HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"12:49:42"}
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"12:49:42"}
+{"level":"info","message":"Webinar Register..!!","timestamp":"12:49:43"}
+{"level":"info","message":"::1 - - [19/Jul/2018:07:49:43 +0000] \"POST /api/webinar/register HTTP/1.1\" 200 412 \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"12:49:43"}
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"14:34:48"}
+{"level":"info","message":"Webinar Register..!!","timestamp":"14:34:49"}
+{"level":"info","message":"::1 - - [19/Jul/2018:09:34:49 +0000] \"POST /api/webinar/register HTTP/1.1\" 200 585 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"14:34:49"}
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"14:39:32"}
+{"level":"info","message":"Webinar Register..!!","timestamp":"14:39:33"}
+{"level":"info","message":"::1 - - [19/Jul/2018:09:39:33 +0000] \"POST /api/webinar/register HTTP/1.1\" 200 586 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"14:39:33"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"14:47:13"}
+{"level":"info","message":"::1 - - [19/Jul/2018:09:47:13 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 200 1990 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"14:47:13"}
+{"level":"info","message":"::1 - - [19/Jul/2018:09:48:07 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"14:48:07"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"14:48:08"}
+{"level":"info","message":"::1 - - [19/Jul/2018:09:48:08 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 200 1990 \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"14:48:08"}
+{"level":"info","message":"::1 - - [19/Jul/2018:09:50:42 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"14:50:42"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"14:50:42"}
+{"level":"info","message":"::1 - - [19/Jul/2018:09:50:42 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"14:50:42"}
+{"level":"info","message":"::1 - - [19/Jul/2018:09:54:12 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"14:54:12"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"14:54:12"}
+{"level":"info","message":"::1 - - [19/Jul/2018:09:54:13 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"14:54:13"}
+{"level":"info","message":"::1 - - [19/Jul/2018:09:56:30 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"14:56:30"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"14:56:30"}
+{"level":"info","message":"::1 - - [19/Jul/2018:09:56:30 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"14:56:30"}
+{"level":"info","message":"::1 - - [19/Jul/2018:09:57:16 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"14:57:16"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"14:57:16"}
+{"level":"info","message":"::1 - - [19/Jul/2018:09:57:17 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"14:57:17"}
+{"level":"info","message":"::1 - - [19/Jul/2018:09:57:21 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"14:57:21"}
+{"level":"info","message":"::1 - - [19/Jul/2018:09:57:43 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"14:57:43"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"14:57:43"}
+{"level":"info","message":"::1 - - [19/Jul/2018:09:57:43 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"14:57:43"}
+{"level":"info","message":"::1 - - [19/Jul/2018:09:58:01 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"14:58:01"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"14:58:01"}
+{"level":"info","message":"::1 - - [19/Jul/2018:09:58:02 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"14:58:02"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:02:36 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:02:36"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"15:02:36"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:02:36 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:02:36"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:04:11 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:04:11"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"15:04:12"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:04:12 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:04:12"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:05:21 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:05:21"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"15:05:21"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:05:21 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:05:21"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:05:50 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:05:50"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"15:05:50"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:05:51 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:05:51"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:06:08 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:06:08"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"15:06:08"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:06:09 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:06:09"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:06:23 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:06:23"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"15:06:23"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:06:24 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:06:24"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:10:35 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:10:35"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"15:10:35"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:10:36 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:10:36"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:11:59 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:11:59"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"15:11:59"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:11:59 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:11:59"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:12:26 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:12:26"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"15:12:26"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:12:26 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:12:26"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:13:20 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:13:20"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"15:13:20"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:13:20 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:13:20"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:13:44 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:13:44"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"15:13:44"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:13:44 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:13:44"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:14:04 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:14:04"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"15:14:04"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:14:05 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:14:05"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:14:24 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:14:24"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"15:14:25"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:14:25 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:14:25"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:14:37 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:14:37"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"15:14:37"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:14:37 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:14:37"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:15:51 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:15:51"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"15:15:51"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:15:51 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:15:51"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:16:12 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:16:12"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"15:16:13"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:16:13 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:16:13"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:17:16 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:17:16"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"15:17:16"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:17:17 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:17:17"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:21:03 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:21:03"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"15:21:03"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:21:03 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:21:03"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:29:28 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:29:28"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"15:29:28"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:29:29 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:29:29"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:29:43 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:29:43"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"15:29:43"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:29:43 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:29:43"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:29:51 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:29:51"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"15:29:51"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:29:52 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 200 1990 \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:29:52"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:30:22 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:30:22"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"15:30:22"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:30:22 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:30:22"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:31:10 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:31:10"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"15:31:10"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:31:10 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:31:10"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:52:59 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:52:59"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"15:52:59"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:52:59 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:52:59"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:53:05 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:53:05"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"15:53:05"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:53:05 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:53:05"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:53:10 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:53:10"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"15:53:10"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:53:11 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:53:11"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:53:39 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:53:39"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"15:53:39"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:53:39 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:53:39"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:56:16 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:56:16"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"15:56:16"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:56:16 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:56:16"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:56:48 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:56:48"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"15:56:48"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:56:48 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:56:48"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:58:55 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:58:55"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"15:58:55"}
+{"level":"info","message":"::1 - - [19/Jul/2018:10:58:55 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"15:58:55"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:00:11 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:00:11"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:00:11"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:00:12 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:00:12"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:01:16 +0000] \"OPTIONS /api/webinar/register HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:01:16"}
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"16:01:16"}
+{"level":"error","message":"Some Error while updating userValidationError: web_start_time: Cast to Date failed for value \"4:00\" at path \"web_start_time\"","timestamp":"16:01:16"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:01:16 +0000] \"POST /api/webinar/register HTTP/1.1\" 200 81 \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:01:16"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:02:23 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:02:23"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:02:23"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:02:24 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:02:24"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:06:03 +0000] \"OPTIONS /api/webinar/register HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:06:03"}
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"16:06:03"}
+{"level":"info","message":"Webinar Register..!!","timestamp":"16:06:03"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:06:03 +0000] \"POST /api/webinar/register HTTP/1.1\" 200 609 \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:06:03"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:07:14 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:07:14"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:07:14"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:07:14 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 200 2540 \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:07:14"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:10:05 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:10:05"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:10:05"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:10:05 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:10:05"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:10:07 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:10:07"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:10:07"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:10:07 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:10:07"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:10:59 +0000] \"OPTIONS /api/webinar/register HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:10:59"}
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"16:10:59"}
+{"level":"info","message":"Webinar Register..!!","timestamp":"16:11:00"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:11:00 +0000] \"POST /api/webinar/register HTTP/1.1\" 200 380 \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:11:00"}
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"16:11:02"}
+{"level":"info","message":"Webinar Register..!!","timestamp":"16:11:02"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:11:02 +0000] \"POST /api/webinar/register HTTP/1.1\" 200 380 \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:11:02"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:12:22 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:12:22"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:12:22"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:12:22 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 200 3182 \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:12:22"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:12:24 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:12:24"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:12:24"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:12:25 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:12:25"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:12:42 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:12:42"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:12:42"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:12:42 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:12:42"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:12:44 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:12:44"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:12:44"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:12:44 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:12:44"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:13:24 +0000] \"OPTIONS /api/webinar/register HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:13:24"}
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"16:13:24"}
+{"level":"info","message":"Webinar Register..!!","timestamp":"16:13:24"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:13:24 +0000] \"POST /api/webinar/register HTTP/1.1\" 200 373 \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:13:24"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:14:19 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:14:19"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:14:19"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:14:19 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 200 3496 \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:14:19"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:16:03 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:16:03"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:16:03"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:16:04 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:16:04"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:16:05 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:16:05"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:16:05"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:16:06 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:16:06"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:17:47 +0000] \"OPTIONS /api/webinar/register HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:17:47"}
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"16:17:47"}
+{"level":"info","message":"Webinar Register..!!","timestamp":"16:17:47"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:17:47 +0000] \"POST /api/webinar/register HTTP/1.1\" 200 366 \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:17:47"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:17:47 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:17:47"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:17:47"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:17:48 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 200 3803 \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:17:48"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:18:53 +0000] \"OPTIONS /api/webinar/register HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:18:53"}
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"16:18:53"}
+{"level":"info","message":"Webinar Register..!!","timestamp":"16:18:54"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:18:54 +0000] \"POST /api/webinar/register HTTP/1.1\" 200 366 \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:18:54"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:18:54 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:18:54"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:18:54"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:18:54 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 200 4110 \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:18:54"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:19:02 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:19:02"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:19:02"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:19:02 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:19:02"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:20:16 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:20:16"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:20:16"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:20:17 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:20:17"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:20:18 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:20:18"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:20:18"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:20:18 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:20:18"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:20:38 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:20:38"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:20:38"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:20:38 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:20:38"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:20:40 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:20:40"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:20:40"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:20:40 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:20:40"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:21:05 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:21:05"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:21:05"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:21:06 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:21:06"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:21:07 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:21:07"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:21:07"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:21:07 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:21:07"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:21:13 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:21:13"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:21:13"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:21:14 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:21:14"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:21:16"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:21:16 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:21:16"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:21:17 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:21:17"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:21:17"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:21:17 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:21:17"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:21:22 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:21:22"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:21:22"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:21:22 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:21:22"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:21:23 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:21:23"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:21:23"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:21:23 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:21:23"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:21:59 +0000] \"OPTIONS /api/webinar/register HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:21:59"}
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"16:21:59"}
+{"level":"info","message":"Webinar Register..!!","timestamp":"16:22:00"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:22:00 +0000] \"POST /api/webinar/register HTTP/1.1\" 200 356 \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:22:00"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:22:00 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:22:00"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:22:00"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:22:00 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 200 4407 \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:22:00"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:24:06 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:24:06"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:24:07"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:24:07 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:24:07"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:24:09 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:24:09"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:24:09"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:24:09 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:24:09"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:24:17 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:24:17"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:24:17"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:24:17 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:24:17"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:24:18 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:24:18"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:24:18"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:24:19 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:24:19"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:25:13 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:25:13"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:25:13"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:25:13 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:25:13"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:25:14 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:25:14"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:25:14"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:25:14 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:25:14"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:25:44 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:25:44"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:25:44"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:25:44 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:25:44"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:25:45 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:25:45"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:25:45"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:25:45 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:25:45"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:26:50 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:26:50"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:26:50"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:26:50 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:26:50"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:26:51 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:26:51"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:26:51"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:26:51 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:26:51"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:27:13 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:27:13"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:27:13"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:27:13 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:27:13"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:27:13 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:27:13"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:27:13"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:27:14 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:27:14"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:27:48 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:27:48"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:27:49"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:27:49 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:27:49"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:27:49 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:27:49"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:27:49"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:27:49 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:27:49"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:28:05 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:28:05"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:28:05"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:28:06 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:28:06"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:28:06 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:28:06"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:28:06"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:28:06 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:28:06"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:29:55 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:29:55"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:29:55"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:29:55 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:29:55"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:29:56 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:29:56"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:29:56"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:29:56 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:29:56"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:30:19 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:30:19"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:30:19"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:30:19 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:30:19"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:31:38 +0000] \"OPTIONS /api/webinar/register HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:31:38"}
+{"level":"verbose","message":"Webinar register-POST called ","timestamp":"16:31:38"}
+{"level":"info","message":"Webinar Register..!!","timestamp":"16:31:38"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:31:38 +0000] \"POST /api/webinar/register HTTP/1.1\" 200 363 \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:31:38"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:31:38 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:31:38"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"16:31:38"}
+{"level":"info","message":"::1 - - [19/Jul/2018:11:31:38 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 200 4711 \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"16:31:38"}
+{"level":"info","message":"::1 - - [19/Jul/2018:12:19:49 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"17:19:49"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"17:19:49"}
+{"level":"info","message":"::1 - - [19/Jul/2018:12:19:49 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"17:19:49"}
+{"level":"info","message":"::1 - - [19/Jul/2018:12:33:54 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"17:33:54"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"17:33:54"}
+{"level":"info","message":"::1 - - [19/Jul/2018:12:33:55 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"17:33:55"}
+{"level":"info","message":"::1 - - [19/Jul/2018:12:35:32 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"17:35:32"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"17:35:32"}
+{"level":"info","message":"::1 - - [19/Jul/2018:12:35:32 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"17:35:32"}
+{"level":"info","message":"::1 - - [19/Jul/2018:12:36:32 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"17:36:32"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"17:36:32"}
+{"level":"info","message":"::1 - - [19/Jul/2018:12:36:32 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"17:36:32"}
+{"level":"info","message":"::1 - - [19/Jul/2018:12:36:50 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"17:36:50"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"17:36:50"}
+{"level":"info","message":"::1 - - [19/Jul/2018:12:36:51 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"17:36:51"}
+{"level":"info","message":"::1 - - [19/Jul/2018:14:57:49 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"19:57:49"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:18:53 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:18:53"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"20:18:53"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:18:53 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:18:53"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:24:16 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:24:16"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"20:24:16"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:24:16 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:24:16"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:26:23 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:26:23"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"20:26:23"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:26:23 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:26:23"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:27:12 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:27:12"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"20:27:12"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:27:13 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:27:13"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:28:31 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:28:31"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"20:28:31"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:28:31 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:28:31"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:31:47 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:31:47"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"20:31:47"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:31:48 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:31:48"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:32:27 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:32:27"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"20:32:27"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:32:27 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:32:27"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:32:55 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:32:55"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"20:32:55"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:32:55 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:32:55"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:33:07 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:33:07"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"20:33:07"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:33:07 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:33:07"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:43:58 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:43:58"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"20:43:58"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:43:59 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:43:59"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:55:20 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:55:20"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"20:55:20"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:55:20 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:55:20"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:55:46 +0000] \"OPTIONS /api/auth HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:55:46"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:55:47 +0000] \"POST /api/auth HTTP/1.1\" 200 532 \"http://localhost:4200/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:55:47"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:55:47 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:55:47"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"20:55:47"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:55:47 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:55:47"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:57:23 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:57:23"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"20:57:24"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:57:24 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:57:24"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:57:39 +0000] \"OPTIONS /api/auth HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:57:39"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:57:40 +0000] \"POST /api/auth HTTP/1.1\" 400 62 \"http://localhost:4200/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:57:40"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:57:51 +0000] \"OPTIONS /api/auth HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:57:51"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:57:51 +0000] \"POST /api/auth HTTP/1.1\" 200 532 \"http://localhost:4200/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:57:51"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:57:51 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:57:51"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"20:57:51"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:57:52 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:57:52"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:59:33 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:59:33"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"20:59:33"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:59:33 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:59:33"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:59:44 +0000] \"OPTIONS /api/auth HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:59:44"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:59:44 +0000] \"POST /api/auth HTTP/1.1\" 200 532 \"http://localhost:4200/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:59:44"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:59:44 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:59:44"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"20:59:44"}
+{"level":"info","message":"::1 - - [19/Jul/2018:15:59:45 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"20:59:45"}
+{"level":"info","message":"::1 - - [19/Jul/2018:17:54:57 +0000] \"POST /api/auth HTTP/1.1\" 200 310 \"-\" \"PostmanRuntime/7.1.5\"\n","timestamp":"22:54:57"}
+{"level":"info","message":"::1 - - [19/Jul/2018:17:55:56 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"22:55:56"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"22:55:56"}
+{"level":"info","message":"::1 - - [19/Jul/2018:17:55:56 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"22:55:56"}
+{"level":"info","message":"::1 - - [19/Jul/2018:17:56:43 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"22:56:43"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"22:56:43"}
+{"level":"info","message":"::1 - - [19/Jul/2018:17:56:43 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"22:56:43"}
+{"level":"info","message":"::1 - - [19/Jul/2018:17:57:02 +0000] \"OPTIONS /api/auth HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"22:57:02"}
+{"level":"info","message":"::1 - - [19/Jul/2018:17:57:02 +0000] \"POST /api/auth HTTP/1.1\" 200 310 \"http://localhost:4200/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"22:57:02"}
+{"level":"info","message":"::1 - - [19/Jul/2018:17:57:02 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"22:57:02"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"22:57:02"}
+{"level":"info","message":"::1 - - [19/Jul/2018:17:57:03 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"22:57:03"}
+{"level":"info","message":"::1 - - [19/Jul/2018:17:57:50 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"22:57:50"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"22:57:51"}
+{"level":"info","message":"::1 - - [19/Jul/2018:17:57:51 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"22:57:51"}
+{"level":"info","message":"::1 - - [19/Jul/2018:17:59:47 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"22:59:47"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"22:59:47"}
+{"level":"info","message":"::1 - - [19/Jul/2018:17:59:48 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"22:59:48"}
+{"level":"info","message":"::1 - - [19/Jul/2018:18:00:56 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"23:00:56"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"23:00:56"}
+{"level":"info","message":"::1 - - [19/Jul/2018:18:00:57 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"23:00:57"}
+{"level":"info","message":"::1 - - [19/Jul/2018:18:02:01 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"23:02:01"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"23:02:01"}
+{"level":"info","message":"::1 - - [19/Jul/2018:18:02:02 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"23:02:02"}
+{"level":"info","message":"::1 - - [19/Jul/2018:18:05:18 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"23:05:18"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"23:05:18"}
+{"level":"info","message":"::1 - - [19/Jul/2018:18:05:18 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"23:05:18"}
+{"level":"info","message":"::1 - - [19/Jul/2018:18:05:46 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"23:05:46"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"23:05:47"}
+{"level":"info","message":"::1 - - [19/Jul/2018:18:05:47 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 200 4711 \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"23:05:47"}
+{"level":"info","message":"::1 - - [19/Jul/2018:18:06:02 +0000] \"OPTIONS /api/auth HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"23:06:02"}
+{"level":"info","message":"::1 - - [19/Jul/2018:18:06:02 +0000] \"POST /api/auth HTTP/1.1\" 200 310 \"http://localhost:4200/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"23:06:02"}
+{"level":"info","message":"::1 - - [19/Jul/2018:18:06:02 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"23:06:02"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"23:06:03"}
+{"level":"info","message":"::1 - - [19/Jul/2018:18:06:03 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"23:06:03"}
+{"level":"info","message":"::1 - - [19/Jul/2018:18:06:58 +0000] \"OPTIONS /api/webinar/listOfWebinar HTTP/1.1\" 204 0 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"23:06:58"}
+{"level":"info","message":"GET listOfWebinar route called!!","timestamp":"23:06:58"}
+{"level":"info","message":"::1 - - [19/Jul/2018:18:06:59 +0000] \"GET /api/webinar/listOfWebinar HTTP/1.1\" 304 - \"http://localhost:4200/dashboard\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36\"\n","timestamp":"23:06:59"}
